@@ -1,4 +1,4 @@
-package jeps_286;
+package jep286;
 
 import java.util.ArrayList;
 import java.util.List;

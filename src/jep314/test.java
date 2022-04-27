@@ -1,4 +1,4 @@
-package jeps_314;
+package jep314;
 
 public class test {
 	
