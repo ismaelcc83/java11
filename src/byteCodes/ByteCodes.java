@@ -3,7 +3,7 @@ package byteCodes;
 import java.util.ArrayList;
 import java.util.List;
 
-public class byteCodes {
+public class ByteCodes {
 	
 	/*La generación de los bytecodes se ha mejorado para bucles for, 
 	lo que proporciona una mejora en el enfoque de traducción*/

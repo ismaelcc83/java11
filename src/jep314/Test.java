@@ -1,6 +1,6 @@
 package jep314;
 
-public class test {
+public class Test {
 	
 	// VM Arguments: -XX:AllocateHeapAt=E: -Xms512M -Xmx512M -Duser.language=es -Duser.country=ES -Duser.timezone=Europe/Madrid
 	public static void main(String args[]) throws Exception {
