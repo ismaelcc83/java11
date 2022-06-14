@@ -1,6 +1,6 @@
-package jeps_286;
+package jep286;
 
-public class test2 {
+public class Test2 {
 	
 	public static void main(String args[]) throws Exception {
 		try {
