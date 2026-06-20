@@ -23,29 +23,42 @@ Created by [Ismael Castro Capafons](https://github.com/ismaelcc83)
 ## Project structure
 
 ```text
-src
-├── main
-│   └── java
-│       └── dev
-│           └── eltiempovuela
-│               └── java11
-│                   └── jeps
-│                       ├── App.java
-│                       ├── ByteCodes.java
-│                       ├── Jep286.java
-│                       ├── Jep286_2.java
-│                       ├── Jep314.java
-│                       ├── Jep321.java
-│                       ├── Jep323.java
-│                       └── Jep330.java
-└── test
-    └── java
-        └── dev
-            └── eltiempovuela
-                └── java11
-                    └── jeps
-                        ├── Jep286Test.java
-                        └── Jep323Test.java
+java11/
+├── .github/
+│   └── workflows/
+│       └── maven.yml
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── dev/
+│   │           └── eltiempovuela/
+│   │               └── java11/
+│   │                   └── jeps/
+│   │                       ├── App.java
+│   │                       ├── ByteCodes.java
+│   │                       ├── Jep286.java
+│   │                       ├── Jep286_2.java
+│   │                       ├── Jep314.java
+│   │                       ├── Jep321.java
+│   │                       ├── Jep323.java
+│   │                       └── Jep330.java
+│   └── test/
+│       └── java/
+│           └── dev/
+│               └── eltiempovuela/
+│                   └── java11/
+│                       └── jeps/
+│                           ├── ByteCodesTest.java
+│                           ├── Jep286Test.java
+│                           ├── Jep286_2Test.java
+│                           ├── Jep314Test.java
+│                           ├── Jep321Test.java
+│                           ├── Jep323Test.java
+│                           └── Jep330Test.java
+├── .gitignore
+├── LICENSE
+├── pom.xml
+└── README.md
 ```
 
 ## Requirements
